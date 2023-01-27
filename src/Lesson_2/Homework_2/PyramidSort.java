@@ -1,4 +1,4 @@
-package Homework_2;
+package Lesson_2.Homework_2;
 
 public class PyramidSort {
 
